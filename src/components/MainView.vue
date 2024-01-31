@@ -15,6 +15,7 @@
             <div class="contact">
 
               <a href='/pdf/Your One-stop shop with Nick and Daria through Industrial Alliance.pdf' target="_blank">Your One-stop shop with Nick and Daria through Industrial Alliance</a>
+              <a href='/pdf/Battery Tray.pdf' target="_blank">Battery Tray</a>
               
               <br />
             </div>
