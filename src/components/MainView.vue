@@ -19,6 +19,9 @@
               <a href='/pdf/Text Clustering (Graduate Project).pdf' target="_blank">Text Clustering</a>
               <a href='/pdf/Machined Train.pdf' target="_blank">Machined Train</a>
 
+              <a href='/pdf/Resume.pdf' target="_blank">Resume</a>
+              <a href='/pdf/Academic Curriculum Vitae.pdf' target="_blank">Academic Curriculum Vitae</a>
+
               <br />
             </div>
           </div>
