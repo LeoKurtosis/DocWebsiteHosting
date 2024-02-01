@@ -16,7 +16,8 @@
 
               <a href='/pdf/Your One-stop shop with Nick and Daria through Industrial Alliance.pdf' target="_blank">Your One-stop shop with Nick and Daria through Industrial Alliance</a>
               <a href='/pdf/Battery Tray.pdf' target="_blank">Battery Tray</a>
-              
+              <a href='/pdf/Text Clustering (Graduate Project).pdf' target="_blank">Text Clustering</a>
+   
               <br />
             </div>
           </div>
