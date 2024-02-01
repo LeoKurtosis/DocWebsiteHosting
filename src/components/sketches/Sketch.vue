@@ -33,9 +33,10 @@ export default {
         }
 
         show() {
-          sk.fill('#212225'); // Moving Balls Color
-          sk.ellipse(this.pos.x, this.pos.y, this.r * 1.5);
-        }
+            sk.fill('rgb(247, 100, 0)'); // Moving Balls Color
+            // sk.ellipse(this.pos.x, this.pos.y, this.r * 1.5); // This was for drawing ellipses
+            sk.rect(this.pos.x, this.pos.y, this.r * 1.5, this.r * 1.5); // Draws squares
+          }
       }
       class Attractor {
         constructor(x, y, m) {
@@ -83,7 +84,7 @@ export default {
         }
       };
       sk.draw = () => {
-        sk.background('rgb(142, 49, 49)');
+        sk.background('rgb(34, 219, 0)'); // BACKGROUND COLOR IN SKETCH
         for (let mover of movers) {
           mover.update();
           mover.show();
