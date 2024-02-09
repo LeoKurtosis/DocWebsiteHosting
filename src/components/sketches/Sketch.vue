@@ -34,7 +34,6 @@ export default {
 
         show() {
             sk.fill('rgb(247, 100, 0)'); // Moving Balls Color
-            // sk.ellipse(this.pos.x, this.pos.y, this.r * 1.5); // This was for drawing ellipses
             sk.rect(this.pos.x, this.pos.y, this.r * 1.5, this.r * 1.5); // Draws squares
           }
       }
