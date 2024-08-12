@@ -132,10 +132,6 @@
           <br />
           <a href='/pdf/Paper_2.pdf' target="_blank">.</a>
           <br />
-
-          <br />
-          <a href='/pdf/Paper_2.pdf' target="_blank">.</a>
-          <br />
         </section>
       </div>
     </div>
