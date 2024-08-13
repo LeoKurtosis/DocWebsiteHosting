@@ -134,7 +134,7 @@
           <br />
 
           <br />
-          <a href='/pdf/Paper_2.pdf' target="_blank">.</a>
+          <a href='/pdf/ubc_2024_september_sabry_nicholas.pdf' target="_blank">.</a>
           <br />
         </section>
       </div>
