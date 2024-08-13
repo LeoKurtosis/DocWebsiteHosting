@@ -1,1 +1,2 @@
 *.gif filter=lfs diff=lfs merge=lfs -text
+public/pdf/ubc_2024_september_sabry_nicholas.pdf filter=lfs diff=lfs merge=lfs -text
